@@ -22,7 +22,7 @@ public class Problem16 {
 		
 		while(num.compareTo(b2)>0)
 		{
-			b4 = b4.add(num.mod(b3));
+		    b4 = b4.add(num.mod(b3));
 		    num = num.divide(b3);
 		}
 		System.out.println(b4);
