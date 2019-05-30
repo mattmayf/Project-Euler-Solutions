@@ -1,5 +1,5 @@
 //Matthew Mayfield 
-//Project Euler - Problem 16
+//Project Euler - Problem 21
 //May 28 2019
 
 package projecteuler;
